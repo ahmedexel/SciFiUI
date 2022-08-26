@@ -22,10 +22,13 @@ Upon reflecting on the project I believe there was room for improvement
 # Instructions
 
  run main.java
+ 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/98479269/186997611-491846d5-22ff-44b3-8482-bbc33b147404.png">
 
 You are then presented with this UI
+
+
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/98479269/186997697-51c7d01c-37e6-4441-a953-9181280e3bc3.png">
 
 # How it works
@@ -39,9 +42,13 @@ Selection 2 is System Origin
 You simply Click on either Weapon or System Origin and you are presented with a new UI
 
 Weapon 
+
+
 <img width="893" alt="image" src="https://user-images.githubusercontent.com/98479269/186997893-10164711-640c-43e3-bbe6-7ca3b5c272d7.png">
 
 System Origin
+
+
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/98479269/186997938-0265a8b2-56f3-4d7e-85a4-5111aa47a386.png">
 
 # What I am most proud of in the assignment
