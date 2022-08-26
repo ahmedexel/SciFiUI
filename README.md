@@ -13,22 +13,12 @@ For the assignment I was to to design a sci-fi movie device like a warp drive, e
 I had a visual idea prior to making this program and I tried my best to convert my visuals to a program
 
 Upon reflecting on the project I believe there was room for improvement
-
-1. Time management was mas a massive hindrance to us as I delayed working on this project for time.
-2. I all genuiniely believe that if I was diligant I would have did better.
-3. There was many additional features I wanted to add such as a background image, extra reactive elements.
-4. The Overall aesthetics of the visuals is good but there's a scope for improvement.
-=======
-For the assignment I was to to design a sci-fi movie device like a warp drive, engines, weapons system. So I decided to design a weapon system as I am passionate about shooting games and it felt the most reasonable to do.
-
-I had a visual idea prior to making this program and I tried my best to convert my visuals to a program
-
-Upon reflecting on the project I believe there was room for improvement
  
 1. Time management was a massive hindrance to us as I had to balance between studying and working the assignment
 2. I genuinely believe that if I was more diligent I would have done a lot better.
 3. There were many additional features I wanted to add such as an additional selection and Unique background Images for each selection.
 4. The Overall aesthetics of the visuals is good but there's room for improvement.
+
 
 # Instructions
 
@@ -78,11 +68,7 @@ Simplifying the project, my proudest part was:-
 - The System Origin Selection of the Program mainly because I spent the most time on it and it looks the best aesthetically.
 
 
-Getting a finished product was  proudest part of the assignment mainly because it was a major relief for myself to  get the project done once and for all. Getting a finalized program sufficed as a major factor for delaying the project as it seemed extremely difficult at first. After days and working On the project I managed to do this.
 
-Simplyifying the project, my proudest part was:-
-
-- The System Origin Selection of the Program mainly because I spent the most time on it and it looks the best aesthetically.
 
 # Markdown Tutorial
 
