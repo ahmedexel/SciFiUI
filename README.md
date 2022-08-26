@@ -8,7 +8,9 @@ Fork this repository and use it a starter project for your assignment
 
 # Description of the assignment
 
-<<<<<<< HEAD
+For the assignment I was to to design a sci-fi movie device like a warp drive, engines, weapons system. So I decided to design a weapon system as I am passionate about shooting games and it felt the most reasonable to do.
+
+I had a visual idea prior to making this program and I tried my best to convert my visuals to a program
 
 Upon reflecting on the project I believe there was room for improvement
 
