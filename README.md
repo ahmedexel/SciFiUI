@@ -24,8 +24,7 @@ Upon reflecting on the project I believe there was room for improvement
  run main.java
  
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/98479269/186997611-491846d5-22ff-44b3-8482-bbc33b147404.png">
-
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/98479269/186999966-f5cefa1a-46c8-4146-ba03-0ee2928d9da8.png">
 You are then presented with this UI
 
 
