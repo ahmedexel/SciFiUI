@@ -8,11 +8,25 @@ Fork this repository and use it a starter project for your assignment
 
 # Description of the assignment
 
+
+Upon reflecting on the project I believe there was room for improvement
+
+1. Time management was mas a massive hindrance to us as I delayed working on this project for time.
+2. I all genuiniely believe that if I was diligant I would have did better.
+3. There was many additional features I wanted to add such as a background image, extra reactive elements.
+4. The Overall aesthetics of the visuals is good but there's a scope for improvement.
+
 # Instructions
 
 # How it works
 
 # What I am most proud of in the assignment
+
+Getting a finished product was  proudest part of the assignment mainly because it was a major relief for myself to  get the project done once and for all. Getting a finalized program sufficed as a major factor for delaying the project as it seemed extremely difficult at first. After days and working On the project I managed to do this.
+
+Simplyifying the project, my proudest part was:-
+
+- The System Origin Selection of the Program mainly because I spent the most time on it and it looks the best aesthetically.
 
 # Markdown Tutorial
 
